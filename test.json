@@ -1,0 +1,38 @@
+[
+    {
+        "type":"free-text",
+        "question":"when didgori dzlevai sakvirveli was?",
+        "answers":[
+            {
+                "correct":false,
+                "answer":1234
+            },
+            {
+                "correct":false,
+                "answer":4355
+            },
+            {
+                "correct":true,
+                "answer":1121
+            }
+        ]
+    },
+    {
+        "type":"free-text",
+        "question":"my birthday?",
+        "answers":[
+            {
+                "correct":true,
+                "answer": "24.02.2002"
+            },
+            {
+                "correct":false,
+                "answer": "25.01.2003"
+            },
+            {
+                "correct":false,
+                "answer": "26.04.2007"
+            }
+        ]
+    }
+]
